@@ -15,7 +15,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navix1456&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navix1456&layout=compact&theme=merko)
 
 
 
