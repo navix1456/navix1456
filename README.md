@@ -13,11 +13,9 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navix1456&show_icons=true&theme=merko)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=navix1456&theme=merko)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navix1456&layout=compact&theme=merko)
 
 ---
 
